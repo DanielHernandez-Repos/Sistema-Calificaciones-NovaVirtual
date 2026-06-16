@@ -1,7 +1,7 @@
 # Sistema-Calificaciones-NovaVirtual
 Sistema de gestión de calificaciones de los alumnos de modelo virtual de NovaUniversitas.
 
-1-. Cada que se suba algo poner el comando
+1-. Cada que se suba algo poner el comando:
 git add .
 git commit -m "Se agregó registro de alumnos"
 
